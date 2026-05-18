@@ -1,22 +1,10 @@
 # Qwiggy – UX Case Study
 
-## Overview
-Brief description of the project
+## Primary Research
+![Primary Research](Primary%20Research.png)
 
-## Problem Statement
-What problem are you solving?
+## User Flow
+![User Flow](User%20Flow.png)
 
-## Research
-User interviews, surveys, findings...
-
-## User Persona
-Who is the target user?
-
-## Wireframes & Prototypes
-Add images here
-
-## Solution
-Final design decisions
-
-## Results / Impact
-Metrics, feedback, learnings
+## Design
+![Design](Design.png)
